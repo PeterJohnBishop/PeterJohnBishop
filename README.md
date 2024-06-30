@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [vigilant-tribble-aws, a repo where I explore how to make requests to Amazon Web Services to use tools like S3, Rekognition, and DynamoDB.](https://github.com/Pierre81385/vigilant-tribble-aws)
 
-- 🌱 I’m currently learning **AWS Rekognition and Socket.IO**
+- 🌱 I’m currently learning SwiftUI
 
-- 👯 I’m looking to collaborate on **any full stack application! I primarily use React and Flutter, but I'm eager to use Angular to get some Typescript exposure. I want to try EVERYTHING just to see!**
+- 👯 I’m looking to collaborate on **any full stack application! Currently I'm focusing on mobile app development with SwiftUI!
 
-- 🤝 I’m looking for help with **Typescript. I really want to understand rather than just porting over my javascript and resolving the mimimum to get it working.**
+- 🤝 I’m looking for help with application architechture.
 
 - 👨‍💻 All of my favorite projects, and more about me, available at [www.peterjohnbishop.com](www.peterjohnbishop.com)
 
-- 💬 Ask me about **API's, ClickUp, Flutter, React, or my dog!**
+- 💬 Ask me about **API's, SwiftUI, ClickUp, Flutter, React, or my dog!**
 
 - 📫 How to reach me **pjb.den@gmail.com**
 
