@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierre81385" alt="pierre81385" /></a> </p>
 
-- 🔭 I’m currently working on [vigilant-tribble-aws, a repo where I explore how to make requests to Amazon Web Services to use tools like S3, Rekognition, and DynamoDB.](https://github.com/Pierre81385/vigilant-tribble-aws)
+- 🔭 I’m currently working on developing a complete and diverse portfolio of mobile applications to demonstrate a wide range of experience using APIs to deliver functional and unique experiences.  
 
 - 🌱 I’m currently learning SwiftUI
 
