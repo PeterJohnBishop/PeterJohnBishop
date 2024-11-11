@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peter Bishop</h1>
-<h3 align="center">An endlessly curious Full Stack developer.</h3>
+<h1 align="center">Hi, I'm Peter Bishop</h1>
+<h3 align="center">An endlessly curious Full Stack developer of web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierre81385&label=Profile%20views&color=0e75b6&style=flat" alt="pierre81385" /> </p>
 
@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on developing a complete and diverse portfolio of mobile applications to demonstrate a wide range of experience using APIs to deliver functional and unique experiences.  
 
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI and integrating various APis through Node servers.
 
 - 👯 I’m looking to collaborate on **any full stack application! Currently I'm focusing on mobile app development with SwiftUI!
 
-- 🤝 I’m looking for help with application architechture.
+- 🤝 I’m looking for help with application architechture and finding useful and interesting APIs to use.
 
-- 👨‍💻 All of my favorite projects, and more about me, available at [www.peterjohnbishop.com](www.peterjohnbishop.com)
-
-- 💬 Ask me about **API's, SwiftUI, ClickUp, Flutter, React, or my dog!**
+- 💬 Ask me about **API's, SwiftUI, ClickUp, Flutter, React, or my dog! (and now SON!)**
 
 - 📫 How to reach me **pjb.den@gmail.com**
 
