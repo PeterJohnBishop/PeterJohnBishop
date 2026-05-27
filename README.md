@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Peter Bishop</h1>
-<h3 align="center">Experience building scalable backend systems with Node and Go, deployed on Docker, Kubernetes, or Heroku. Developing secure APIs and integrating cloud platforms like AWS and Firebase. Proficient in modern frontend frameworks including React, Flutter, and SwiftUI.</h3>
-
-- 🧑🏻‍💻 I’m currently working on developing backend services capable of being scaled to an Enterprise level.
-
-- 🌱 I’m currently learning distributed microservices and containerized architectures
+<h3 align="center">Experience orchestrating scalable and secure backend systems with Node.js and Go in containerized deployments. Developing REST, GraphQL, and gRPC APIs integrating relational and non-relational databases with React, Flutter, and SwiftUI frontend applications. Building terminal user interfaces based on the Elm architecture, with a strong interest in performance optimization, security, and utility.</h3>
 
 - 📫 How to reach me **peterjohnbishop.denver@gmail.com**
 
