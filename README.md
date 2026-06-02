@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Peter Bishop</h1>
-<h3 align="center">Experience orchestrating scalable and secure backend systems with Node.js and Go in containerized deployments. Developing REST, GraphQL, and gRPC APIs integrating relational and non-relational databases with React, Flutter, and SwiftUI frontend applications. Building terminal user interfaces based on the Elm architecture, with a strong interest in performance optimization, security, and utility.</h3>
+<h3 align="center">I'm a Go focused developer with experience building [REST, gRPC, GraphQL] APIs, authentication solutions [OAuth, JWT, PAKE, Rekognition, TOTP], and scalable containerized services.  
+
+
+
+I currently work to investigate software defects across multiple platforms through deep-dive investigation of front-end and back-end components, and API data analytics.  Responsibilities include live escalation support, custom integration support, and maintaining public API documentation.</h3>
 
 - 📫 How to reach me **peterjohnbishop.denver@gmail.com**
 
