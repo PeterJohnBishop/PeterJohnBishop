@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Peter Bishop</h1>
-<h3 align="center">I'm a Go focused developer with experience building [REST, gRPC, GraphQL] APIs, authentication solutions [OAuth, JWT, PAKE, Rekognition, TOTP], and scalable containerized services.  
+<h3 align="center">I'm a Go developer with experience building [REST, gRPC, GraphQL] APIs, authentication solutions [OAuth, JWT, PAKE, Rekognition, TOTP], and scalable containerized services.  
 
 
 
