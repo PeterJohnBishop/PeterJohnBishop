@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Peter Bishop</h1>
-<h3 align="center">I'm a Go developer with experience building [REST, gRPC, GraphQL] APIs, authentication solutions [OAuth, JWT, PAKE, Rekognition, TOTP], and scalable containerized services.  
-
-
-
-I currently work to investigate software defects across multiple platforms through deep-dive investigation of front-end and back-end components, and API data analytics.  Responsibilities include live escalation support, custom integration support, and maintaining public API documentation.</h3>
+<h3 align="center">I'm a Go focused developer with experience building [REST, gRPC, GraphQL] APIs, authentication solutions [OAuth, JWT, PAKE, Rekognition, TOTP], and scalable containerized [Docker, Kubernetes, Postgres, Nginx] services. I work to investigate software defects across multiple platforms in front-end and back-end components. I also provide live escalation, custom integration, and API testing support.
+</h3>
 
 - 📫 How to reach me **peterjohnbishop.denver@gmail.com**
 
